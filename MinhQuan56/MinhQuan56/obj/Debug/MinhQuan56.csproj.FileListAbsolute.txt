@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\bin\Debug\MinhQuan56.exe.config
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\bin\Debug\MinhQuan56.exe
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\bin\Debug\MinhQuan56.pdb
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.Form1.resources
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.Properties.Resources.resources
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.exe
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\obj\Debug\MinhQuan56.pdb
+C:\Users\admin\Desktop\MinhQuan56\MinhQuan56\MinhQuan56\bin\Debug\TextMinhQuan56.csv
